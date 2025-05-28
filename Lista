@@ -1,0 +1,80 @@
+Lógica de Programação 
+
+1.1- Buscar a Lâmpada reserva;
+  2- Pegar a escada;
+  3- Posicionar a escada embaixo da lâmpada;
+  4- Subir na escada;
+  5- Retirar a lâmpada velha;
+  6- Colocar a Lâmpada de reserva;
+
+2.1- Informar os números naturais;
+  2- Decompor os números em fatores primos;
+  3- Escrever na forma fatorial;
+  4- Selecionar os fatores comuns com menor expoente;
+  5- Resolver as potências;
+  6- Resolver as multiplicações;
+  7- Apresentar os resultados;
+
+3. Problema: Levar o bode, o lobo e a alfafa pro outro lado do rio;
+  1- O homem deve levar o bode para a margem da direita;
+  2- Depois ele deve voltar para a margem da esquerda para pegar o lobo;
+  3- Ele leva o lobo para a margem da esquerda e pega o bode de volta; 
+  4- Ele deixa o bode na margem da esquerda e pega a alfafa; 
+  5- Ele leva a alfafa junto com o lobo na margem da direita e retorna pra margem da esquerda para buscar o bode; 
+  6- Finalmente ele deve levar o bode para a margem da direita, junto do lobo e da alfafa;
+
+4.Problema: Levar 3 Jesuítas e 3 Canibais para o outro lado do rio.
+  1- Embarcar 1 jesuíta e 1 canibal no barco; 
+  2- Levar o Jesuíta e o Canibal para a margem da direita;
+  3- Desembarcar o Canibal; 
+  4- Levar o Jesuíta pra margem da esquerda e embarcar outro Canibal; 
+  5- Levar o Jesuíta e o outro Canibal para a margem da direita e desembarcar o Jesuíta; 
+  6- Voltar para a margem da esquerda e embarcar um Jesuíta; 
+  7- Levar o barco para a margem da direita e desembarcar o Jesuíta; 
+  8- Voltar pra margem da esquerda e embarcar o último Canibal; 
+  9- Levar o barco e desembarcar o canibal; 
+  10- Voltar pra margem da esquerda e embarcar o último jesuíta;
+  11- finalmente levando e desembarcando o último Canibal e o último Jesuíta que estavam no barco.
+
+5.Problema: 3 discos em 3 hastes.
+  1- Mover o disco 1 para haste C;
+  2- Mover o disco 2 para haste B;
+  3- Mover o disco 1 para haste B deixando por cima do disco 2;
+  4- Mover o disco 3 para haste C;
+  5- Mover o disco 1 para haste A;
+  6- Mover o disco 2 para haste C;
+  7- Mover o disco 1 para haste C;
+
+6.Problema: Seis Senhoras.
+  Amanda: Livro;
+  Bete: Vestido;
+  Camila: Bolsa;
+  Divina: Gravata;
+  Elisa: Candeeiro;
+  Filomena: Chapéu;
+
+7.1. Inicial : A - 8L / B - 0L / C -  0L
+  2. A-> B: A - 3L/ B - 5L / C - 0L
+  3. B->C: A - 3L / B - 2L / C - 3L
+  4. C->A: A - 6L / B - 2L / C - 0L
+  5. B->C: A 6L / B - 0L / C - 2L
+  6. A->B: A - 1L / B - 5L / C - 2L
+  7. B->C: A - 1L / B - 4L / C - 3L
+  8. C->A: A - 4L / B - 4L/ C - 0L.
+
+8.João: toca harpa;
+  Antônio: toca violino;
+  Francisco: toca piano;
+
+9. Escrita no caderno 
+
+
+10.Gumercindo: 1
+   Teodoro: 2
+   Barnabé: 3
+
+
+
+
+
+
